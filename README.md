@@ -112,6 +112,3 @@ Use the MeshGrid iOS/macOS companion (**MeshGrid-Commander** / MeshGrid app) for
 
 Release binaries are provided for MeshGrid hardware owners. Open an issue on this repository for flash or release-asset problems. Include board type, esptool log, and the `BLE ready BUILD …` boot line (never paste network passwords).
 
----
-
-**Repo:** [github.com/toygar/MeshGrid-Node](https://github.com/toygar/MeshGrid-Node)
