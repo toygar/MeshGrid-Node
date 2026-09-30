@@ -17,7 +17,7 @@ This repository publishes **binary firmware releases** for flashing MeshGrid har
 
 | Item | Notes |
 |------|--------|
-| MCU | ESP32 Dev Module (4 MB flash) |
+| MCU | ESP32 Dev Module or ESP32S (4 MB flash, 2 core) |
 | Radio | Ebyte E22 (900 MHz class), UART + AUX |
 | Antenna | Matched to the E22 band / region |
 | USB | CP2102 (or similar) for flash / serial provision |
